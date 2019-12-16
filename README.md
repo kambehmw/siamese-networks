@@ -11,7 +11,7 @@ The code was developed in the following environment:
 To install dependecies:
 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Dataset

@@ -3,7 +3,7 @@
 ## Setup
 
 The code was developed in the following environment:
-- Python 3.7
+- Python 3.7.5
 - Pytorch 1.3.1
 - Tensorflow 1.15.0
 - Keras 2.3.1
@@ -24,8 +24,8 @@ You can learn on the following two datasets in this reposity
 
 ## Train
 
-- [How to train AT&T Database of Faces dataset]()
-- [How to train Omniglot dataset]()
+- [How to train AT&T Database of Faces dataset](face/README.md)
+- [How to train Omniglot dataset](omniglot/README.md)
 
 ## Reference
 

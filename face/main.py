@@ -20,7 +20,7 @@ total_sample_size = 10000
 
 def get_data(seize, total_sample_size):
     # read the image
-    image = read_image('data/orl_faces/s' + str(1) + '/' + str(1) + '.pgm', 'rw+')
+    image = read_image('data/att-database-of-faces/s' + str(1) + '/' + str(1) + '.pgm', 'rw+')
     # reduce the size 
     image = image[::size, ::size]
     # get the new size
